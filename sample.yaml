@@ -5,4 +5,4 @@ metadata:
   nameSpace: dev_ns
   labels:
     app: nginx
-  replicas:
+  replicas: 3
