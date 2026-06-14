@@ -5,3 +5,8 @@ metadata:
   nameSpace: dev_ns
   labels:
     app: nginx
+  replicas: 3
+  metadata:
+    labels: 
+      app: nginx
+    container: 
